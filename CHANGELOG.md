@@ -1,4 +1,6 @@
 -- Agilitext Text Editor
+
+
 -- ChangeLog
 
 2013-06-24 Gannon McGibbon <gannon@jukesfordays.com>, version 1.0
